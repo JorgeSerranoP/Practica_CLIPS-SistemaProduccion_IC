@@ -1,0 +1,1342 @@
+
+RONDA 1 CASILLA 1
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 3 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 5 francos, 0 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 0 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 2
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 0 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 5 francos, 0 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 6 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 5 francos, 6 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 0 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 1 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 5 francos, 6 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 5
+El jugador 1 ha añadido a la oferta 4 de Madera
+El jugador 1 ha añadido a la oferta 2 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado 2 francos
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 6 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 1 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 6
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 3 de Vaca
+
+El jugador 2 ha tomado los bienes 3 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 4 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 6 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 1 CASILLA 7
+El jugador 1 ha añadido a la oferta 1 de Francos
+El jugador 1 ha añadido a la oferta 2 de Acero
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+El jugador 1 ha recibido una vaca por la cosecha 
+
+El jugador 2 ha recibido una vaca por la cosecha 
+
+El jugador 1 ha pagado 3 unidades de comida
+
+El jugador 2 ha pagado 3 unidades de comida
+
+La ronda 1 ha finalizado
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 1
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 10 de Madera
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 2
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 4 de Arcilla
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 2 de Madera
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 4 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 6
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 3 de Vaca
+
+El jugador 1 ha tomado 3 francos
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 10 francos, 4 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 5 francos, 2 unidades de comida y 5 de riqueza total a falta de restar los prestamos
+
+RONDA 2 CASILLA 7
+El jugador 2 ha añadido a la oferta 2 de Acero
+El jugador 2 ha añadido a la oferta 1 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+El jugador 1 ha pagado 4 unidades de comida
+
+El jugador 2 no tenia suficiente comida, asi que ha pagado con dinero
+
+La ronda 2 ha finalizado
+El jugador 2 tiene 1 francos, 2 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 10 francos, 0 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 1
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 10 francos, 0 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 2 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 2
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado 1 francos
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 10 francos, 0 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 10 francos, 0 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 13 de Vaca
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 15 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 10 francos, 0 unidades de comida y 10 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 5
+El jugador 1 ha añadido a la oferta 4 de Madera
+El jugador 1 ha añadido a la oferta 2 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado 2 francos
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 12 francos, 0 unidades de comida y 12 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 15 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 6
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 9 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 15 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 12 francos, 0 unidades de comida y 12 de riqueza total a falta de restar los prestamos
+
+RONDA 3 CASILLA 7
+El jugador 1 ha añadido a la oferta 1 de Francos
+El jugador 1 ha añadido a la oferta 2 de Acero
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+El jugador 2 ha pagado 5 unidades de comida
+
+El jugador 1 no tenia suficiente comida, asi que ha pagado con dinero
+
+La ronda 3 ha finalizado
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 1
+El jugador 2 ha añadido a la oferta 1 de Vaca
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado 1 francos
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 2
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 7 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 17 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 4 de Arcilla
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 17 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 6 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 17 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 7 francos, 0 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 6
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 4 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 7 francos, 4 unidades de comida y 7 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 17 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 4 CASILLA 7
+El jugador 2 ha añadido a la oferta 1 de Francos
+El jugador 2 ha añadido a la oferta 2 de Acero
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+El jugador 2 ha recibido una vaca por la cosecha 
+
+El jugador 1 ha recibido una vaca por la cosecha 
+
+El jugador 1 no tenia suficiente comida, asi que ha pagado con dinero
+
+El jugador 2 ha pagado 7 unidades de comida
+
+La ronda 4 ha finalizado
+El jugador 2 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 5 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 1
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 5 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 2
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado 3 francos
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 6 francos, 11 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 5 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 3
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 3 de Vaca
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 4 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 6 francos, 11 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 6 francos, 12 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 5
+El jugador 1 ha añadido a la oferta 2 de Francos
+El jugador 1 ha añadido a la oferta 4 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 4 de Arcilla
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 6 francos, 12 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 6
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 8 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 6 francos, 12 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 5 CASILLA 7
+El jugador 1 ha añadido a la oferta 2 de Acero
+El jugador 1 ha añadido a la oferta 1 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+El jugador 1 ha pagado 9 unidades de comida
+
+El jugador 2 ha pagado 9 unidades de comida
+
+La ronda 5 ha finalizado
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 6 francos, 3 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 1
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado 3 francos
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 9 francos, 3 unidades de comida y 9 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 2
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 4 de Arcilla
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 9 francos, 3 unidades de comida y 9 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 7 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 9 francos, 10 unidades de comida y 9 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 3 de Madera
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 9 francos, 10 unidades de comida y 9 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado 2 francos
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 11 francos, 10 unidades de comida y 11 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 6
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 5 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 0 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 11 francos, 10 unidades de comida y 11 de riqueza total a falta de restar los prestamos
+
+RONDA 6 CASILLA 7
+El jugador 2 ha añadido a la oferta 2 de Acero
+El jugador 2 ha añadido a la oferta 1 de Francos
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 2 no tenia suficiente comida, asi que ha pagado con dinero
+
+La ronda 6 ha finalizado
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 1 francos, 0 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 1
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 1 francos, 0 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 2
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 1 francos, 0 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 3 prestamos
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado los bienes 8 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 8 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 3 de Madera
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 8 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 5
+El jugador 1 ha añadido a la oferta 2 de Francos
+El jugador 1 ha añadido a la oferta 4 de Madera
+Ademas, ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado 3 francos
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 6 francos, 8 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 6
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 3 de Vaca
+
+El jugador 2 ha tomado los bienes 4 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 14 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 6 francos, 8 unidades de comida y 6 de riqueza total a falta de restar los prestamos
+
+RONDA 7 CASILLA 7
+El jugador 1 ha añadido a la oferta 2 de Acero
+El jugador 1 ha añadido a la oferta 1 de Francos
+Ademas, ha pagado por los intereses porque tiene 4 prestamos
+
+El jugador 2 no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha tomado 1 francos
+
+El jugador 1 ha recibido una vaca por la cosecha 
+
+El jugador 2 ha recibido una vaca por la cosecha 
+
+El jugador 1 ha pagado un prestamo
+
+El jugador 2 ha pagado 13 unidades de comida
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+La ronda 7 ha finalizado
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 1
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 2
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 6 de Madera
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 3
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 3 de Vaca
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 2 ha tomado los bienes 4 de Arcilla
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 9 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 2 de Madera
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 3 francos, 9 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 5
+El jugador 2 ha añadido a la oferta 2 de Francos
+El jugador 2 ha añadido a la oferta 4 de Madera
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha pagado por los intereses porque tiene 7 prestamos
+
+El jugador 2 ha tomado los bienes 4 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 6
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 8 CASILLA 7
+El jugador 2 ha añadido a la oferta 1 de Francos
+El jugador 2 ha añadido a la oferta 2 de Acero
+Ademas, no ha pagado por los intereses porque no tiene ningun prestamo
+
+El jugador 1 ha pagado por los intereses porque tiene 7 prestamos
+
+El jugador 2 ha tomado los bienes 8 de Vaca
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 2 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+La ronda 8 ha finalizado
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 1
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 2
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 2 ha pagado por los intereses porque tiene 4 prestamos
+
+El jugador 1 ha tomado 3 francos
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 4 francos, 9 unidades de comida y 4 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 4 francos, 9 unidades de comida y 4 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 5
+El jugador 1 ha añadido a la oferta 2 de Francos
+El jugador 1 ha añadido a la oferta 4 de Madera
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 2  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 3 francos, 9 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 6
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 3 de Vaca
+
+El jugador 2 ha tomado los bienes 8 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 18 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 9 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 9 CASILLA 7
+El jugador 1 ha añadido a la oferta 2 de Acero
+El jugador 1 ha añadido a la oferta 1 de Francos
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 2 ha pagado por los intereses porque tiene 5 prestamos
+
+El jugador 1 ha tomado 3 francos
+
+El jugador 1 ha pagado un prestamo
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 2 ha pagado 16 unidades de comida
+
+La ronda 9 ha finalizado
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 1
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 7 de Madera
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 9 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 2
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 5 prestamos
+
+El jugador 1  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 2 ha tomado los bienes 3 de Vaca
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 1 francos, 5 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 5 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, ha pagado por los intereses porque tiene 5 prestamos
+
+El jugador 1 ha pagado por los intereses porque tiene 15 prestamos
+
+El jugador 2 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 6 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 6
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 8 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 6 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 10 CASILLA 7
+El jugador 2 ha añadido a la oferta 2 de Acero
+El jugador 2 ha añadido a la oferta 1 de Francos
+Ademas, ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 1 ha pagado por los intereses porque tiene 15 prestamos
+
+El jugador 2 ha tomado los bienes 3 de Vaca
+
+El jugador 2 ha recibido una vaca por la cosecha 
+
+El jugador 1 ha recibido una vaca por la cosecha 
+
+El jugador 2 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+La ronda 10 ha finalizado
+El jugador 2 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 11 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 1
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 6 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 11 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 2
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 10 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 11 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 2 ha pagado por los intereses porque tiene 10 prestamos
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 5
+El jugador 1 ha añadido a la oferta 4 de Madera
+El jugador 1 ha añadido a la oferta 2 de Francos
+Ademas, ha pagado por los intereses porque tiene 20 prestamos
+
+El jugador 2 ha pagado por los intereses porque tiene 10 prestamos
+
+El jugador 1 ha tomado los bienes 6 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 11 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 6
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 3 de Vaca
+
+El jugador 2 ha tomado los bienes 8 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 18 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 11 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 11 CASILLA 7
+El jugador 1 ha añadido a la oferta 1 de Francos
+El jugador 1 ha añadido a la oferta 2 de Acero
+Ademas, ha pagado por los intereses porque tiene 20 prestamos
+
+El jugador 2  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 2 ha pagado 18 unidades de comida
+
+La ronda 11 ha finalizado
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 0 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 1
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 1 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 2
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado 6 francos
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 9 francos, 11 unidades de comida y 9 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 1 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 1 ha pagado por los intereses porque tiene 25 prestamos
+
+El jugador 2 ha tomado los bienes 4 de Arcilla
+
+El jugador 1 ha pagado un prestamo
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 1 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 3 francos, 11 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 1 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 1 ha pagado por los intereses porque tiene 24 prestamos
+
+El jugador 2 ha tomado los bienes 7 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 1 francos, 1 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 11 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 6
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 3 de Vaca
+
+El jugador 1 ha tomado los bienes 7 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 1 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 12 CASILLA 7
+El jugador 2 ha añadido a la oferta 2 de Acero
+El jugador 2 ha añadido a la oferta 1 de Francos
+Ademas, ha pagado por los intereses porque tiene 11 prestamos
+
+El jugador 1 ha pagado por los intereses porque tiene 24 prestamos
+
+El jugador 2 ha tomado 3 francos
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 2 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+La ronda 12 ha finalizado
+El jugador 2 tiene 0 francos, 1 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 1
+El jugador 1 ha añadido a la oferta 1 de Vaca
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+
+El jugador 1 ha tomado los bienes 2 de Arcilla
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 1 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 2
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado los bienes 1 de Vaca
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 2 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 3
+El jugador 1 ha añadido a la oferta 3 de Vaca
+El jugador 1 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 29 prestamos
+
+El jugador 2  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 1 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 1 francos, 18 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 2 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 4
+El jugador 2 ha añadido a la oferta 1 de Madera
+El jugador 2 ha añadido a la oferta 1 de Vaca
+
+El jugador 2 ha tomado los bienes 4 de Madera
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 2 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 1 francos, 18 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 5
+El jugador 1 ha añadido a la oferta 2 de Francos
+El jugador 1 ha añadido a la oferta 4 de Madera
+Ademas, ha pagado por los intereses porque tiene 29 prestamos
+
+El jugador 2 ha pagado por los intereses porque tiene 16 prestamos
+
+El jugador 1 ha tomado 2 francos
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 2 francos, 2 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 6
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+
+El jugador 2 ha tomado los bienes 7 de Vaca
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 2 francos, 9 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 18 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 13 CASILLA 7
+El jugador 1 ha añadido a la oferta 1 de Francos
+El jugador 1 ha añadido a la oferta 2 de Acero
+Ademas, ha pagado por los intereses porque tiene 29 prestamos
+
+El jugador 2 ha pagado por los intereses porque tiene 16 prestamos
+
+El jugador 1 ha tomado 1 francos
+
+El jugador 2 ha recibido una vaca por la cosecha 
+
+El jugador 1 ha recibido una vaca por la cosecha 
+
+El jugador 2 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 2 ha pedido un prestamo
+
+El jugador 1 no tenia suficiente comida ni dinero, asi que ha tenido que pedir un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+El jugador 1 ha pedido un prestamo
+
+La ronda 13 ha finalizado
+El jugador 1 tiene 2 francos, 19 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 1
+El jugador 2 ha añadido a la oferta 1 de Vaca
+El jugador 2 ha añadido a la oferta 2 de Arcilla
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+Avanzamos a la casilla 2
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 2 francos, 19 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 2
+El jugador 1 ha añadido a la oferta 2 de Arcilla
+El jugador 1 ha añadido a la oferta 1 de Madera
+
+El jugador 1 ha tomado los bienes 6 de Madera
+
+Avanzamos a la casilla 3
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 2 francos, 19 unidades de comida y 2 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 1 francos, 10 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 3
+El jugador 2 ha añadido a la oferta 3 de Vaca
+El jugador 2 ha añadido a la oferta 1 de Madera
+Ademas, ha pagado por los intereses porque tiene 21 prestamos
+
+El jugador 1 ha pagado por los intereses porque tiene 34 prestamos
+
+El jugador 2 ha tomado los bienes 6 de Arcilla
+
+Avanzamos a la casilla 4
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 1 francos, 19 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 4
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 1 de Vaca
+
+El jugador 1 ha tomado los bienes 5 de Vaca
+
+Avanzamos a la casilla 5
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 1 francos, 24 unidades de comida y 1 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 0 francos, 10 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 5
+El jugador 2 ha añadido a la oferta 4 de Madera
+El jugador 2 ha añadido a la oferta 2 de Francos
+Ademas, ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 1 ha pagado por los intereses porque tiene 34 prestamos
+
+El jugador 2 ha tomado los bienes 6 de Madera
+
+Avanzamos a la casilla 6
+El turno pasa del jugador 2 al jugador 1
+El jugador 2 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+El jugador 1 tiene 0 francos, 24 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 6
+El jugador 1 ha añadido a la oferta 1 de Madera
+El jugador 1 ha añadido a la oferta 3 de Vaca
+
+El jugador 1 ha tomado los bienes 1 de Madera
+
+Avanzamos a la casilla 7
+El turno pasa del jugador 1 al jugador 2
+El jugador 1 tiene 0 francos, 24 unidades de comida y 0 de riqueza total a falta de restar los prestamos
+El jugador 2 tiene 3 francos, 10 unidades de comida y 3 de riqueza total a falta de restar los prestamos
+
+RONDA 14 CASILLA 7
+El jugador 2 ha añadido a la oferta 1 de Francos
+El jugador 2 ha añadido a la oferta 2 de Acero
+Ademas, ha pagado por los intereses porque tiene 22 prestamos
+
+El jugador 1  ha tenido que pedir un prestamo para pagar los intereses
+
+El jugador 2 ha tomado los bienes 2 de Acero
+
+Fin del juego. El ganador es el jugador 2 con una riqueza de: -152, frente a una riqueza del jugador 1 de: -242
